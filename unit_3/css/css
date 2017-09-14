@@ -2,7 +2,7 @@ body {
 	background-color: #000000;
 	text-align: center;
 	text-decoration: none;
-	font-family: Gotham;
+	font-family: Arial;
 
 }
 h1 {
