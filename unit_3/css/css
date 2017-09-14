@@ -1,9 +1,10 @@
 body {
+	background: url("http://i.imgur.com/q0FaaAk.jpg");
+	background-size: cover;
 	background-color: #000000;
 	text-align: center;
 	text-decoration: none;
-        background: url("http://i.imgur.com/q0FaaAk.jpg");
-	background-size: cover;
+
 
 }
 h1 {
