@@ -1,31 +1,13 @@
 body {
-	background: url("http://i.imgur.com/q0FaaAk.jpg");
-	background-size: cover;
-	background-color: #000000;
-	text-align: center;
-	text-decoration: none;
-
-
+  text-align: center;
+  background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Vd3bj2jPe/water-drops-on-glass-after-rain-water-droplets-on-glass-in-blue-color-shiny-droplets-shimmering-drops-on-glass-at-night-abstract-background-droplet-background-rain-drops-on-glass-surface_hdss2ak8__F0000.png");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
 }
-h1 {
-	color: white;
-	font-weight: bold;
-
-
+hr {
+  width: 200px;
 }
-h2 {color: skyblue;
-
-}
-
-#slogan {
-	font-weight: italic;
-	text-transform: capitalize;
-}
-h3 {color:orange;
-
-}
-
 p {
-	color:white;
-	font-size: 16px;
+  font-size: 22px;
 }
