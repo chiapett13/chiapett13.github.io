@@ -1,6 +1,31 @@
 body {
-	background-color: red;
+	background-color: #000000;
+	text-align: center;
+	text-decoration: none;
+	font-family: Tahoma;
+
 }
-h1, p {
-	color: gold;
+h1 {
+	color: white;
+	font-weight: bold;
+
+}
+h2 {color: skyblue;
+
+}
+
+#second {
+	font-weight: bold;
+}
+h3 {color:orange;
+
+}
+
+.important {
+	font-size: 18px;
+}
+
+p {
+	color:white;
+	font-size: 16px;
 }
