@@ -2,8 +2,7 @@ body {
 	background-color: #000000;
 	text-align: center;
 	text-decoration: none;
-	font-family: Arial;
-
+	background-image: 
 }
 h1 {
 	color: white;
