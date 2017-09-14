@@ -2,7 +2,7 @@ body {
 	background-color: #000000;
 	text-align: center;
 	text-decoration: none;
-	background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Vd3bj2jPe/water-drops-on-glass-after-rain-water-droplets-on-glass-in-blue-color-shiny-droplets-shimmering-drops-on-glass-at-night-abstract-background-droplet-background-rain-drops-on-glass-surface_hdss2ak8__F0000.png")
+        background: url("http://i.imgur.com/q0FaaAk.jpg");
 
 }
 h1 {
