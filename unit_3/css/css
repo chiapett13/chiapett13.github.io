@@ -2,7 +2,7 @@ body {
 	background-color: #000000;
 	text-align: center;
 	text-decoration: none;
-	background-image: url ("https://chiapett13.github.io/unit_3/images/bigger-forbes-digital-era.jpg")
+	background-image: url("https://chiapett13.github.io/unit_3/images/bigger-forbes-digital-era.jpg")
 }
 h1 {
 	color: white;
