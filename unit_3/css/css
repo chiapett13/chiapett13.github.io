@@ -2,7 +2,6 @@ body {
 	background-color: #000000;
 	text-align: center;
 	text-decoration: none;
-	background-image: images/bigger-forbes-digital-era.jpg;
 }
 h1 {
 	color: white;
