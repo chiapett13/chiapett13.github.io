@@ -2,11 +2,9 @@
 
 body {
   text-align: center;
-  text-decoration: none;
-  text-decoration-color: skyblue;
   background-image: url("/images/gray.jpg");
-  background-size: cover;
   font-family: 'Droid Sans', serif;
+  color: #fff;
 
 }
 h1 {
