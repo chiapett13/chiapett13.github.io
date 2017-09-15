@@ -9,9 +9,14 @@ body {
  background-repeat: no-repeat;
  font-family: 'Droid Sans', serif;
  color: #000;
- margin: auto;
- width: 100%;
- padding: 100px;  
+  margin: auto;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  top: 0px;
+    width: auto;
+  height: auto;
 }
 a {
     text-decoration: none;
