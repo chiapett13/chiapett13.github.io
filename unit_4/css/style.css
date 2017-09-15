@@ -2,6 +2,8 @@
 
 body {
   text-align: center;
+  text-decoration: none;
+  text-decoration-color: skyblue;
   background: url("http://www.wallpapermaven.com/cat/abstract/download/Layered-Gray-Squares-2048x1536-39.jpg");
   background-size: cover;
   color: #f1f1f1;
