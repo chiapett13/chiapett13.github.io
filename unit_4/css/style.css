@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
 
 body {
-	background-color: white;
+	color: white;
 	text-align: center;
 	text-decoration: none;
 	font-family: 'Droid Sans', Gotham, sans-serif;
 
 }
 h1 {
-	font-color: black;
+	color: black;
 	font-weight: bold;
 	font-family: 'Droid Serif', Arial, serif;
 }
@@ -19,7 +19,7 @@ h2 {
 }
 
 p {
-	font-color: black;
+	color: black;
 	font-size: 16px;
 
 }
