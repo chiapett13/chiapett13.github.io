@@ -2,9 +2,11 @@
 
 body {
   text-align: center;
-  background: url('unit_4/images/gray.jpg');
+  background-image: url('http://geodavephotography.com/images/gray-wallpaper/36862221-gray-wallpaper.jpg');
+  background-attachment: none;
+  background-repeat: no repeat;
   font-family: 'Droid Sans', serif;
-  color: #fff;
+  color: #000;
 
 }
 h1 {
