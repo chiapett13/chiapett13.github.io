@@ -4,11 +4,9 @@
 
 body {
  text-align: center;
- background: url('http://geodavephotography.com/images/gray-wallpaper/36862221-gray-wallpaper.jpg');
- background-attachment: none;
- background-repeat: no repeat;
+ background: url('unit_4/images/gray.jpg');
  font-family: 'Droid Sans', serif;
- color: #000;
+ color: #f1f1f1;
 
 }
 a {
