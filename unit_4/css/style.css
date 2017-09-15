@@ -9,7 +9,7 @@ body {
 
 }
 h1 {
-	color: white;
+	color: black;
 	font-weight: bold;
 	font-family: 'Droid Serif', serif;
 }
@@ -19,7 +19,7 @@ h2 {color: skyblue;
 }
 
 p {
-	color:white;
+	color:black;
 	font-size: 16px;
 
 }
