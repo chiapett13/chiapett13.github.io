@@ -4,18 +4,18 @@ body {
   text-align: center;
   background: url("http://www.wallpapermaven.com/cat/abstract/download/Layered-Gray-Squares-2048x1536-39.jpg");
   background-size: cover;
-  color: #fff;
-  font-family: Helvetica;
+  color: #f1f1f1;
+  font-family: 'Droid Sans', serif;
 
 }
 h1 {
-	color: black;
-	font-weight: bold;
-	font-family: 'Droid Serif', serif;
+  color: black;
+  font-weight: bold;
+  font-family: 'Droid Serif', serif;
 }
 
 p {
-	color: black;
-	font-size: 16px;
+  color: black;
+  font-size: 16px;
 
 }
