@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
 
 body {
-	background-image: url("http://www.wallpapermaven.com/cat/abstract/download/Layered-Gray-Squares-2048x1536-39.jpg");
-	color: #f1f1f1;
-	text-align: center;
-	text-decoration: none;
-	font-family: 'Droid Sans', sans-serif;
+  text-align: center;
+  background: url("http://i.imgur.com/q0FaaAk.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
 
 }
 h1 {
