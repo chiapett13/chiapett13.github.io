@@ -12,6 +12,9 @@ h1 {
   font-weight: bold;
   font-family: 'Droid Serif', serif;
 }
+#insights {
+	color: skyblue;
+}
 
 p {
   color: black;
