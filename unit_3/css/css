@@ -1,0 +1,29 @@
+body {
+	background-color: #000000;
+	text-align: center;
+	text-decoration: none;
+	font-family: Tahoma;
+
+}
+h1 {
+	color: white;
+	font-weight: bold;
+
+
+}
+h2 {color: skyblue;
+
+}
+
+#slogan {
+	font-weight: italic;
+	text-transform: capitalize;
+}
+h3 {color:orange;
+
+}
+
+p {
+	color:white;
+	font-size: 16px;
+}
