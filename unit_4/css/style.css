@@ -2,14 +2,14 @@
 
 
 body {
-	background-color: white;
+	background-color: #fff;
 	text-align: center;
 	text-decoration: none;
 	font-family: 'Droid Sans', sans-serif;
 
 }
 h1 {
-	color: black;
+	color: #000;
 	font-weight: bold;
 	font-family: 'Droid Serif', serif;
 }
@@ -19,7 +19,7 @@ h2 {color: skyblue;
 }
 
 p {
-	color:black;
+	color: #000;
 	font-size: 16px;
 
 }
