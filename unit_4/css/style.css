@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
 
 body {
-	background-image: url("images/forbesdigitalmedia.jpg");
-	background-repeat: cover;
-	background-color: #f1f1f1;
+	background: url("images/gray.jpg");
+	color: #f1f1f1;
 	text-align: center;
 	text-decoration: none;
 	font-family: 'Droid Sans', sans-serif;
