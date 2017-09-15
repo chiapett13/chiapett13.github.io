@@ -1,13 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
 
-body {
-  text-align: center;
-  background-image: url('http://geodavephotography.com/images/gray-wallpaper/36862221-gray-wallpaper.jpg');
-  background-attachment: none;
-  background-repeat: no repeat;
-  font-family: 'Droid Sans', serif;
-  color: #000;
 
+
+body {
+ text-align: center;
+ background-image: url('images/graywallpaper.jpg');
+ background-attachment: none;
+ background-repeat: no repeat;
+ font-family: 'Droid Sans', serif;
+ color: #000;
+ height: 500px;
+ width: 800px;
+ position: fixed;
+ top: 50%;
+ left: 50%;
+ margin-top: -100px;
+ margin-left: -200px;
+  
 }
 h1 {
   color: black;
