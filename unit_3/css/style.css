@@ -1,12 +1,12 @@
 body {
-	background-color: #000000;
+	background-color: #ffffff;
 	text-align: center;
 	text-decoration: none;
 	font-family: Tahoma;
 
 }
 h1 {
-	color: white;
+	color: black
 	font-weight: bold;
 
 }
@@ -26,6 +26,6 @@ h3 {color:orange;
 }
 
 p {
-	color:white;
+	color:black;
 	font-size: 16px;
 }
