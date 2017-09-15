@@ -9,17 +9,18 @@ body {
 
 }
 h1 {
-	color: #000;
+	font-color: #000;
 	font-weight: bold;
 	font-family: 'Droid Serif', serif;
 }
-h2 {color: skyblue;
+h2 {
+	color: skyblue;
 	font-family: 'Droid Serif', serif;
 
 }
 
 p {
-	color: #000;
+	font-color: #000;
 	font-size: 16px;
 
 }
