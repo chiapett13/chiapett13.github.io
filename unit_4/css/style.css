@@ -4,9 +4,8 @@ body {
   text-align: center;
   text-decoration: none;
   text-decoration-color: skyblue;
-  background: url("http://www.wallpapermaven.com/cat/abstract/download/Layered-Gray-Squares-2048x1536-39.jpg");
+  background: url('/images/gray.jpg');
   background-size: cover;
-  color: #f1f1f1;
   font-family: 'Droid Sans', serif;
 
 }
