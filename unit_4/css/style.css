@@ -9,8 +9,9 @@ body {
  background-repeat: no-repeat;
  font-family: 'Droid Sans', serif;
  color: #000;
- margin: 5% auto;
-  
+ margin: auto;
+ width: 100%;
+ padding: 100px;  
 }
 a {
     text-decoration: none;
