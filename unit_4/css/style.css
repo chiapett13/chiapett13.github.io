@@ -10,7 +10,8 @@ body {
  font-family: 'Droid Sans', serif;
  color: #000;
  margin: auto;
- padding: 10px;
+ width: 1024px;
+ padding: 30px;
 }
 a {
     text-decoration: none;
