@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
+
+
+
+body {
+ text-align: center;
+ background-image: url(../images/graywallpaper.jpg);
+ font-family: 'Droid Sans', serif;
+
+}
+a {
+    text-decoration: none;
+}
+h1 {
+  color: black;
+  font-weight: bold;
+  font-family: 'Droid Serif', serif;
+}
+
+
+p {
+  color: black;
+  font-size: 16px;
+
+}
