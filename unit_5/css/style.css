@@ -7,7 +7,7 @@ body {
  background-image: url("http://www.forbesmedia.com/wp-content/uploads/2015/06/Perry-filter.jpg");
  font-family: 'Droid Sans', serif;
 
-.logo {
+#logo {
 	background: url("http://www.forbesmedia.com/wp-content/themes/fm/assets/images/site-logo--white@2x.png");
 	width: 134px;
 	height: 21px;
