@@ -15,6 +15,10 @@ body {
 img {
 	width: 182px;
 	height: 28px;
+	top: 20px;
+	left: 20px;
+	bottom: -41px;
+	right: 356px;
 }
 a {
     text-decoration: none;
