@@ -8,6 +8,7 @@ body {
  font-family: 'Droid Sans', serif;
 
 .logo {
+	background: url("http://www.forbesmedia.com/wp-content/themes/fm/assets/images/site-logo--white@2x.png");
 	width: 134px;
 	height: 21px;
 	top: 20px;
