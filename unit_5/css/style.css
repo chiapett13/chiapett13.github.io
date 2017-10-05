@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
 
 body {
- text-align: center;
- background: url("../images/Perry-filter.jpg");
- background-size: cover;
- font-family: 'Droid Sans', serif;
- font-color: black;
- font-size: 20px;
+	text-align: center;
+	background: url("../images/Perry-filter.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Droid Sans', serif;
+	font-color: black;
+	font-size: 20px;
 
 }
 
