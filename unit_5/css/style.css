@@ -8,7 +8,8 @@ body {
  font-family: 'Droid Sans', serif;
 
 }
-#logo {
+.logo {
+	background-image: url("images/forbes-media-logo-white.png");
 	width: 134px;
 	height: 21px;
 	top: 20px;
