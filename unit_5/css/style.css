@@ -8,8 +8,14 @@ body {
     color: #000;
 }
 
+#wrapper {
+	width: 100px;
+	margin: 0 auto;
+}
+
 #logo{
 	width: 280px;
+	padding: 1.5em;
 }
 
 h1, h2 {
@@ -23,7 +29,7 @@ h1, h2 {
 }  
 
 .purpose {
-	margin: 7em 2em 0em 2em;
+	margin: 20em 2em 0em 10em;
     padding: 1.5em;
 }
 
