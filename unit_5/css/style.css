@@ -1,8 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+
 body {
-	background-color: black;
+   	background: url("https://www.forbes.com/forbes-media/wp-content/uploads/2015/06/Kayla.png");
+    background-size: cover;
+    width: 1065px;
+    position: relative;
+    color: #000;
 }
 
-h1. p {
-	color: gold;
-	
+h1, h2 {
+	font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+	color: white;
 }
+#first {
+	text-transform: uppercase;
+    
+}  
+#second {
+	font-weight: bold;
+    
+}
+p {
+	font-family: 'Lato', sans-serif;
+    color: white;
+    font-weight: normal;
+ }
+    
+
+.important {
+	font-size: 20px;
+}
+
