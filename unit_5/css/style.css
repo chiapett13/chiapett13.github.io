@@ -3,9 +3,13 @@
 body {
    	background: url("https://www.forbes.com/forbes-media/wp-content/uploads/2015/06/Kayla.png");
     background-size: cover;
-    width: 1065px;
-    position: relative;
+    background-repeat: no-repeat;
+    width: 100%;
     color: #000;
+}
+
+#logo{
+	width: 280px;
 }
 
 h1, h2 {
@@ -13,22 +17,19 @@ h1, h2 {
     font-weight: bold;
 	color: white;
 }
+
 #first {
-	text-transform: uppercase;
-    
+	text-transform: uppercase;   
 }  
-#second {
-	font-weight: bold;
-    
+
+.purpose {
+	margin: 7em 2em 0em 2em;
+    padding: 1.5em;
 }
+
 p {
 	font-family: 'Lato', sans-serif;
     color: white;
     font-weight: normal;
- }
-    
-
-.important {
-	font-size: 20px;
 }
-
+    
