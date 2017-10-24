@@ -1,48 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
-
 body {
-	text-align: center;
-	background: url("http://www.forbesmedia.com/wp-content/uploads/2015/06/Perry-filter.jpg");
-    background-size: 100%;
-    background-repeat: no-repeat;
-	position: absolute;
-	font-family: 'Droid Sans', serif;
-	font-color: black;
-	font-size: 20px;
-
-}
-div {
-	margin: 0 auto;
-	padding: 2em;
+	background-color: black;
 }
 
-img {
-	width: 220px;
-	height: 34px;
-
-}
-#nav_wrapper{
-background-color: #000000;
-padding: 1.25em;
-margin: 0 10px;
-}
-
-.nav_item{
-color: #ffffff;
-text-decoration: none;
-padding: 20px;
-}
-
-a {
-    text-decoration: none;
-}
-
-h1 {
-	color: black;
-	font-weight: bold;
-	font-family: 'Droid Serif', serif;
-}
-
-p {
-
+h1. p {
+	color: gold;
+	
 }
