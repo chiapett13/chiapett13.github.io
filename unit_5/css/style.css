@@ -14,7 +14,7 @@ body {
 }
 
 #logo{
-	width: 280px;
+	width: 220px;
     padding: 1.5em;
 }
 
@@ -30,8 +30,9 @@ h1, h2 {
 }  
 
 .purpose {
-	margin: 20em 2em 0em 10em;
+	margin: 15em 2em 0em 10em;
     padding: 1.5em;
+    width: 400px;
 }
 
 p {
