@@ -1,5 +1,9 @@
 body {
+    background: url("https://www.forbes.com/forbes-media/wp-content/uploads/2015/06/Kayla.png");
+    background-size: cover;
+    background-repeat: no-repeat;
     color: #000;
+
 }
 
 #wrapper {
@@ -19,13 +23,6 @@ nav {
     }
 
 
-header {
-	background: url("https://www.forbes.com/forbes-media/wp-content/uploads/2015/06/Kayla.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-
-
-}
 h1, h2 {
 	font-family: 'Raleway', sans-serif;
     font-weight: bold;
