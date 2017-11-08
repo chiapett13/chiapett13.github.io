@@ -2,8 +2,18 @@
 
 body {
 	text-align: center;
-	background-image: url(../images/graywallpaper.jpg);
 	font-family: 'Droid Sans', serif;
+}
+.wrapper {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+#forbes100 {
+	background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
 }
 a {
     text-decoration: none;
@@ -26,6 +36,7 @@ nav {
     background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
+
 }
 section {
     background-color: #FFE2B8;
