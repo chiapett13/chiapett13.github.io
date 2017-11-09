@@ -44,6 +44,9 @@ div {
 }
 a {
 	text-decoration: none;
+	display: block;
+	padding: 10px;
+	width: 100%;
 }
 h1 {
 	color: black;
@@ -60,9 +63,10 @@ header {
 	padding: 20px;
 }
 nav {
-	background-color: #E8C66A;
+	background-color: #000000;
 	border: 1px black solid;
 	padding: 20px;
+	float: left;
 }
 section {
 	background-color: #FFE2B8;
