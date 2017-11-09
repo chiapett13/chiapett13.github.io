@@ -4,11 +4,17 @@ body {
 	text-align: center;
 	font-family: 'Droid Sans', serif;
 }
-div {
-	background: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-}
+
+#logo {
+	width: 150px;
+    }
+#kayla {
+	background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    }
+
 #forbes100 {
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -17,22 +23,16 @@ div {
 }
 #two_column {
 	background-color: #FFB7CF;
-	border: 1px black solid;
-	padding: 20px;
 }
 #left {
 	background-color: violet;
-	border: 1px black solid;
-	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 40%;
 }
 #right {
 	background-color: pink;
-	border: 1px black solid;
-	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 40%;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -43,48 +43,50 @@ div {
 	height: 0;
 }
 a {
+	background-color: #000000;
+	color: white;
 	text-decoration: none;
 	display: block;
-	padding: 10px;
-	width: 100%;
+	float: left;
+	padding: 20px;
+}
+a:hover {
+	background-color: #aaaaaa;
 }
 h1 {
-	color: black;
+	text-align: left;
+	color: white;
 	font-weight: bold;
 	font-family: 'Droid Serif', serif;
 }
 p {
-	color: black;
+	text-align: left;
+    color: white;
 	font-size: 16px;
-}
-header {
-	background: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
 }
 nav {
 	background-color: #000000;
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
+	font-family: 'Droid Serif', serif;
+}
+
+header {
+	background: #ff3333;
+	padding: 0;
+    margin: 0;
+    border: 0;
 }
 section {
 	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
 }
 aside {
 	background-color: #FFC675;
-	border: 1px black solid;
 	padding: 20px;
 }
 article {
 	background-color: #E89C6C;
-	border: 1px black solid;
 	padding: 20px;
 }
 footer {
 	background-color: #FF957E;
-	border: 1px black solid;
 	padding: 20px;
 }
