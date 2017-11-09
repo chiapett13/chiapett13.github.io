@@ -76,17 +76,17 @@ header {
     border: 0;
 }
 section {
-	background-color: #FFE2B8;
+	background-color: #000000;
 }
 aside {
-	background-color: #FFC675;
+	background-color: blue;
 	padding: 20px;
 }
 article {
-	background-color: #E89C6C;
+	background-color: red;
 	padding: 20px;
 }
 footer {
-	background-color: #FF957E;
+	background-color: #000000;
 	padding: 20px;
 }
