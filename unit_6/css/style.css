@@ -4,16 +4,12 @@ body {
 	text-align: center;
 	font-family: 'Droid Sans', serif;
 }
-
 #logo {
-	width: 150px;
-    }
-#kayla {
 	background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: auto;
-    }
+	background-repeat: no-repeat;
+	width: 100px;
+	height: auto;
+}
 
 #forbes100 {
 	background-size: cover;
@@ -21,72 +17,86 @@ body {
 	width: 100%;
 	height: auto;
 }
-#two_column {
+
+a {
+	text-decoration: none;
+}
+h1 {
+	color: black;
+	font-weight: bold;
+	font-family: 'Droid Serif', serif;
+}
+h3 {
+	color: white;
+    }
+p {
+	color: black;
+	font-size: 16px;
+}
+nav {
 	background-color: #000000;
 }
-#left {
-	background-color: skyblue;
-	float: left;
-	width: 40%;
+
+header {
+	background: url("https://www.forbes.com/forbes-media/wp-content/uploads/2015/06/Kayla.png");
+    background-size: cover;
+    height: 100vh;
+	padding: 20px;
 }
+#mission_statement {
+    margin: 120px 0px 20px 120px;
+    text-align: left;
+    }
+#two_column {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+#left {
+    background-color: #f1f1f1;
+    padding: 20px;
+    float: left;
+    width: 45%;
+}
+
 #right {
-	background-color: green;
-	float: right;
-	width: 40%;
+    background-color: #f1f1f1;
+    padding: 20px;
+    float: right;   
+    width: 45%;
 }
 .clearfix:after {
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-	height: 0;
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+section {
+	background-color: #ffffff;
+	padding: 20px;
+}
+aside {
+	background-color: #f1f1f1;
+	padding: 20px;
+}
+article {
+	background-color: #f1f1f1;
+	padding: 20px;
 }
 a {
 	background-color: #000000;
 	color: white;
 	text-decoration: none;
-	display: block;
 	float: left;
-	padding: 20px;
+	padding: 30px;
 }
 a:hover {
 	background-color: #aaaaaa;
 }
-h1 {
-	text-align: left;
-	color: white;
-	font-weight: bold;
-	font-family: 'Droid Serif', serif;
-}
-p {
-	text-align: left;
-    color: white;
-	font-size: 16px;
-}
-nav {
-	background-color: #000000;
-	font-family: 'Droid Serif', serif;
-}
-
-header {
-	background: #ffffff;
-	padding: 0;
-    margin: 0;
-    border: 0;
-}
-section {
-	background-color: #000000;
-}
-aside {
-	background-color: blue;
-	padding: 20px;
-}
-article {
-	background-color: red;
-	padding: 20px;
-}
 footer {
 	background-color: #000000;
 	padding: 20px;
+    text-align: left;
 }
