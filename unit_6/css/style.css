@@ -68,8 +68,11 @@ nav {
     height: 0;
 }
 #mission_statement {
-    top: 50%;
+position: absolute;
+    top: 40%;
     text-align: left;
+    width: 500px;
+    left: 20%;
     }
 section {
 	background-color: #ffffff;
