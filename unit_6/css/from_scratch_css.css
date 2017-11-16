@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
+
+body {
+	background-color: pink;
+	color: white;
+}
+
+h1 {
+	color: white;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+p {
+	color: white;
+	font-family: 'Droid Serif', sans-serif;
+}
+ul {
+}
+
+li {
+}
+
+img {
+}
+
+#slogan {
+	text-transform: italic;
+	font-weight: bold;
+	color: black;
+}
