@@ -147,7 +147,6 @@ footer {
   section {
     font-size: 1em;
     line-height: 1em;
-    width: 45%;
   }
 }
 
@@ -165,14 +164,13 @@ footer {
     margin: 0 auto;
   }
   
-  section, div {
+ div {
     width: 100%;
     padding: 1em;
   }
 section {
     float: none;
     font-size: .5em;
-    width: 50%;
-    padding: 0;
+
   }
 }
