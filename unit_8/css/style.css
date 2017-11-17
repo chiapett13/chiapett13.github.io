@@ -144,7 +144,7 @@ footer {
       margin: 0 auto;
   }
 
-  #section #two_column #two_column_a {
+  section #two_column #two_column_a {
     font-size: 1em;
     line-height: 1em;
     width: 45%;
@@ -169,7 +169,7 @@ footer {
     width: 100%;
     padding: 1em;
   }
-  #section #two_column #two_column_a {
+section #two_column #two_column_a {
     float: none;
     font-size: .5em;
     width: 20%;
