@@ -140,6 +140,9 @@ footer {
   nav {
     float: none;
   }
+  section {
+  	float: none;
+  }
 
 }
 
@@ -151,5 +154,8 @@ footer {
   h2 {
     font-size: 1em;
     display: inline;
+  }
+    section {
+  	float: none;
   }
 }
