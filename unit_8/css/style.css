@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Droid+Serif');
+
+body {
+	text-align: center;
+	font-family: 'Droid Sans', serif;
+    font-size: 14px;
+}
+.wrapper {
+	width: 100%;
+    margin: 0 auto;
+    }
+#forbes100 {
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: auto;
+}
+
+#logo {
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 120px;
+}
+a {
+	text-decoration: none;
+}
+h1 {
+	color: gold;
+	font-weight: bold;
+	font-family: 'Droid Serif', serif;
+	font-size: 2em;
+}
+h2 {
+	color: black;
+	font-size: 1.8em;
+    }
+h3 {
+	color: black;
+	font-size: 1.4em;
+    }
+p {
+	color: black;
+	font-size: 1.2em;
+}
+#kayla {
+	background-size: cover;
+	width: 100%;
+    height: auto;
+    }
+
+nav {
+	background-color: #000000;
+    font-size: 20px;
+}
+#two_column {
+    background-color: #ffffff;
+    padding: 20px;
+}
+#two_column_a {
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+#left {
+    padding: 20px;
+    float: left;
+    width: 45%;
+}
+#left_a {
+    padding: 20px;
+    float: left;
+    width: 45%;
+    text-align: right;
+}
+#right {
+    padding: 20px;
+    float: right;   
+    width: 45%;
+}
+#right_a {
+    padding: 20px;
+    float: right;   
+    width: 45%;
+    text-align: left;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+#mission_statement {
+position: absolute;
+    top: 30%;
+    text-align: left;
+    width: 450px;
+    left: 10%;
+    line-height: 190%;
+    }
+#mission_statement h1 {
+    text-transform: uppercase;
+    color: white;
+}
+section {
+	background-color: #ffffff;
+	padding: 20px;
+}
+aside {
+}
+article {
+}
+#three {
+	background-color: #f1f1f1;
+    }
+a {
+	background-color: #000000;
+	color: white;
+	text-decoration: none;
+	float: left;
+	padding: 30px;
+}
+a:hover {
+	background-color: #aaaaaa;
+}
+hr {
+width: 100px;
+}
+footer {
+	background-color: gold;
+	padding: 20px;
+    text-align: left;
+}
