@@ -9,6 +9,9 @@ div {
 	border: 1px black solid;
 	padding: 20px;
 }
+#logo {
+	width: 120px;
+}
 #forbes100 {
 	background-size: cover;
 	background-repeat: no-repeat;
