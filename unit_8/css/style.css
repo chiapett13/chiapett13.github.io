@@ -131,3 +131,47 @@ footer {
 	padding: 20px;
     text-align: left;
 }
+
+@media only screen and (max-width: 800px) {
+  nav {
+    float: none;
+  } 
+
+  nav {
+    float: none;
+  }
+  nav a {
+      margin: 0 auto;
+  }
+
+  #left #left_a #right #right_a {
+    font-size: 1em;
+    line-height: 1em;
+    width: 45%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  h1, nav {
+    display: block;
+    text-align: center;
+  }
+  h2 {
+    font-size: 1em;
+    display: inline;
+  }
+
+  nav a {
+    margin: 0 1em 1em;
+  }
+  
+  section, div {
+    width: 100%;
+    padding: 1em;
+  }
+  #left #left_a #right #right_a {
+    float: none;
+    font-size: 1em;
+    width: 50%;
+  }
+}
