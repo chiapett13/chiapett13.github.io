@@ -6,7 +6,7 @@ body {
     font-size: 14px;
 }
 div {
-	width: 1280px;
+	width: 100%;
     margin: 0 auto;
     }
 #forbes100 {
@@ -63,23 +63,23 @@ nav {
 #left {
     padding: 20px;
     float: left;
-    width: 45%;
+    width: 40%;
 }
 #left_a {
     padding: 20px;
     float: left;
-    width: 45%;
+    width: 40%;
     text-align: right;
 }
 #right {
     padding: 20px;
     float: right;   
-    width: 45%;
+    width: 40%;
 }
 #right_a {
     padding: 20px;
     float: right;   
-    width: 45%;
+    width: 40%;
     text-align: left;
 }
 .clearfix:after {
@@ -90,13 +90,13 @@ nav {
     clear: both;
     height: 0;
 }
+
 #mission_statement {
 position: absolute;
-    top: 30%;
     text-align: left;
     width: 450px;
-    left: 10%;
     line-height: 190%;
+    margin: 10%;
     }
 #mission_statement h1 {
     text-transform: uppercase;
@@ -130,4 +130,43 @@ footer {
 	background-color: gold;
 	padding: 20px;
     text-align: left;
+}
+@media (max-width: 800px) {
+  h1, nav {
+    display: block;
+    text-align: center;
+  }
+section {
+float: none;
+}
+nav {
+float: none;
+}
+}
+@media only screen and (max-width: 480px) {
+  h1, h2, nav {
+    display: block;
+    text-align: center;
+    font-size: 1em;
+  }
+section {
+float: none;
+width: 100%;
+text-align: center;
+
+}
+img {
+width: 220px;
+text-align: center;
+margin: 0 auto;
+
+}
+#two_column_a, #left_a, #right_a {
+float: none;
+text-align: center;
+margin: 0 auto;
+
+
+}
+
 }
