@@ -5,8 +5,8 @@ body {
 	font-family: 'Droid Sans', serif;
     font-size: 14px;
 }
-#wrapper {
-	width: 100%;
+div {
+	width: 1280px;
     margin: 0 auto;
     }
 #forbes100 {
@@ -91,7 +91,7 @@ nav {
     height: 0;
 }
 #mission_statement {
-position: relative;
+position: absolute;
     top: 30%;
     text-align: left;
     width: 450px;
@@ -130,10 +130,4 @@ footer {
 	background-color: gold;
 	padding: 20px;
     text-align: left;
-}
-
-@media only screen and (max-width: 800px) {
-
-}
-@media only screen and (max-width: 480px) {
 }
