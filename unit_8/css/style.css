@@ -91,7 +91,7 @@ nav {
     height: 0;
 }
 #mission_statement {
-position: absolute;
+position: relative;
     top: 30%;
     text-align: left;
     width: 450px;
@@ -133,29 +133,7 @@ footer {
 }
 
 @media only screen and (max-width: 800px) {
-  nav {
-    float: none;
-  } 
-
-  nav {
-    float: none;
-  }
-  section {
-  	float: none;
-  }
 
 }
-
 @media only screen and (max-width: 480px) {
-  h1, nav {
-    display: block;
-    text-align: center;
-  }
-  h2 {
-    font-size: 1em;
-    display: inline;
-  }
-    section {
-  	float: none;
-  }
 }
