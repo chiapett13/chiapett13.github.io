@@ -5,8 +5,8 @@ body {
 	font-family: 'Droid Sans', serif;
     font-size: 14px;
 }
-div {
-	width: 1280px;
+.wrapper {
+	width: 100%;
     margin: 0 auto;
     }
 #forbes100 {
@@ -54,30 +54,30 @@ nav {
 }
 #two_column {
     background-color: #ffffff;
-    padding: 2%;
+    padding: 20px;
 }
 #two_column_a {
     background-color: #f1f1f1;
-    padding: 2%;
+    padding: 20px;
 }
 #left {
-    padding: 2%;
+    padding: 20px;
     float: left;
     width: 45%;
 }
 #left_a {
-    padding: 2%;
+    padding: 20px;
     float: left;
     width: 45%;
     text-align: right;
 }
 #right {
-    padding: 2%;
+    padding: 20px;
     float: right;   
     width: 45%;
 }
 #right_a {
-    padding: 2%;
+    padding: 20px;
     float: right;   
     width: 45%;
     text-align: left;
@@ -104,7 +104,7 @@ position: absolute;
 }
 section {
 	background-color: #ffffff;
-	padding: 2%;
+	padding: 20px;
 }
 aside {
 }
@@ -124,10 +124,10 @@ a:hover {
 	background-color: #aaaaaa;
 }
 hr {
-width: 10%;
+width: 100px;
 }
 footer {
 	background-color: gold;
-	padding: 2%;
+	padding: 20px;
     text-align: left;
 }
