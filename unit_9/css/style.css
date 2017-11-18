@@ -4,11 +4,7 @@ body {
 	text-align: center;
 	font-family: 'Droid Sans', serif;
 }
-div {
-	background: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-}
+
 #logo {
 	width: 120px;
 }
@@ -19,76 +15,156 @@ div {
 	height: auto;
 }
 .hero-image {
-  background-image: url("https://www.forbes.com/forbes-media/wp-content/uploads/2015/06/Kayla.png");
-  position: relative;
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+	background-image: url("https://www.forbes.com/forbes-media/wp-content/uploads/2015/06/Kayla.png");
+  	position: relative;
+  	height: 100vh;
+  	background-repeat: no-repeat;
+  	background-size: cover;
 }
-
 .mission-statement {
-  text-align: left;
-  position: absolute;
-  transform: translate(-50%, -50%);
-  top: 50%;
-  left: 20%;
-  color: white;
+	text-align: left;
+  	position: absolute;
+  	top: 30%;
+  	left: 10%;
+    width: 80%;
+}
+.mission-statement h1 {
+	color: white;
+    text-transform: uppercase;
+    }
+.mission-statement h2 {
+	color: white;
+    font-weight: bold;
+    }
+button {
+    background-color: transparent;
+    border: 2px white solid;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 4px 2px;
+    padding: 15px 45px;
+    text-decoration: none;
+    display: inline-block;
+
 }
 
-.mission-statement button {
-  text-align: center;
-  color: black;
-  background-color: #ddd;
-  border: none;
-  outline: 0;
-  padding: 10px 25px;
-  display: inline-block;
+hr {
+	width: 200px;
+    
+}
+#one {
+	background-color: #f1f1f1;
+}
+#two_column {
+    background-color: #ffffff;
+    padding: 20px;
+}
+#left {
+    padding: 20px;
+    float: left;
+    width: 40%;
+    background-color: #f1f1f1;
+}
+#right {
+    padding: 20px;
+    float: right;   
+    width: 40%;
+    background-color: #f1f1f1;
+
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+#three {
+	background-color: #f1f1f1;
+}
+#four {
+	background-color: #ffffff;
+}
+#four button {
+	background-color: transparent;
+    border: 2px black solid;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 4px 2px;
+    padding: 15px 45px;
+    text-decoration: none;
+    display: inline-block;
 }
 
-.mission-statement button:hover {
-  background-color: #555;
-  color: white;
-}
-a {
-	text-decoration: none;
-}
 h1 {
-	color: black;
+	color: gold;
 	font-weight: bold;
 	font-family: 'Droid Serif', serif;
+    text-transform: uppercase;
 }
 p {
 	color: black;
 	font-size: 16px;
 }
-header {
-	background: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
-}
+
 nav {
-	background-color: #E8C66A;
-	border: 1px black solid;
-	padding: 20px;
+	background: #000;
 }
+
+nav a {
+	display: block;
+	float: left;
+	padding: 30px 20px;
+	color: #ffffff;
+	text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav a:hover { 
+  color: gold;
+}
+
+a {
+	text-decoration: none;
+}
+
 section {
 	background-color: #FFE2B8;
-	border: 1px black solid;
 	padding: 20px;
 }
-aside {
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding: 20px;
-}
-article {
-	background-color: #E89C6C;
-	border: 1px black solid;
-	padding: 20px;
-}
+
 footer {
-	background-color: #FF957E;
-	border: 1px black solid;
+	background-color: #000000;
 	padding: 20px;
+}
+footer p {
+	color: white;
+}
+@media (max-width: 1020px) {
+  nav {
+    float: none;
+  }
+
+  nav a {
+  }
+
+}
+@media only screen and (max-width: 490px) {
+  h1, h2, nav {
+    display: block;
+    text-align: center;
+  }
+  .mission-statement h1, h2, button {
+  	text-align: left;
+    }
+  nav a {
+  text-align: center;
+    margin: 0 1em 1em;
+  }
+
 }
