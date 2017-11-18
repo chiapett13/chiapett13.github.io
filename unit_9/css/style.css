@@ -18,6 +18,38 @@ div {
 	width: 100%;
 	height: auto;
 }
+.hero-image {
+  background-image: url("https://www.forbes.com/forbes-media/wp-content/uploads/2015/06/Kayla.png");
+  position: relative;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mission-statement {
+  text-align: left;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 20%;
+  color: white;
+}
+
+.mission-statement button {
+  text-align: center;
+  color: black;
+  background-color: #ddd;
+  border: none;
+  outline: 0;
+  padding: 10px 25px;
+  display: inline-block;
+}
+
+.mission-statement button:hover {
+  background-color: #555;
+  color: white;
+}
 a {
 	text-decoration: none;
 }
